@@ -22,11 +22,12 @@ h1 {
 
 #tribute-info {
     flex: 1;
+    font-size: 20px
 }
 
 #image {
     display: block;
-    margin: 0 auto;
-    max-width: 75%;
+    margin: 20px auto;
+    max-width: 100%;
     height: auto;
 }
